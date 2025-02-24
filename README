@@ -1,1 +1,4 @@
 An OpenGL program
+This project is a course design of Computer Graphics in School of Software of Southeast University. OpenGL is used as the development engine, glsl and C++ as the development language. It implements model import, vertex shader and slice shader, light rendering, light and shade mapping and texture mapping, scene and sky box design, scene interaction and UI design.
+
+In this program, you will maneuver your ship to explore the solar system, approaching planets and investigating them with as little damage as possible to the ship. This project can simulate the underlying code and logic of the game development engine.
