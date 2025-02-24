@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\桌面\大学\图形学\TEST\Project2\main.cpp(775,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\桌面\大学\图形学\TEST\Project2\main.cpp(775,68): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\桌面\大学\图形学\TEST\Project2\main.cpp(1443,39): warning C4305: “-=”: 从“double”到“float”截断
+F:\桌面\大学\图形学\TEST\Project2\main.cpp(1446,39): warning C4305: “+=”: 从“double”到“float”截断
+  Project2.vcxproj -> F:\桌面\大学\图形学\TEST\Project2\x64\Debug\Project2.exe
